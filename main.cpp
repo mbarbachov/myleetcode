@@ -1,6 +1,6 @@
 #include <iostream>
-#include "EASY_2129.cpp"
-#include "EASY_3536.cpp"
+#include "cpp/EASY_2129.cpp"
+#include "cpp/EASY_3536.cpp"
 
 int main() {
     // Declare each "solution obj"
@@ -11,6 +11,5 @@ int main() {
     obj3536.maxProduct(10101023);
 
     // Test the primary function from each obj - UNSOLVED
-    obj2129.capitalizeTitle("thiSI is A TEst")
+    obj2129.capitalizeTitle("thiSI is A TEst");
 }
-
